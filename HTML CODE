@@ -1,0 +1,133 @@
+<div class="wrapper">
+    <div class="card">
+        <input type="checkbox" id="card1" class="more" aria-hidden="true">
+        <div class="content">
+            <!-- Front of the card -->
+            <div class="front" style="background-image: url('https://www.shutterstock.com/image-photo/old-gym-interior-equipment-326627258')">
+                <div class="inner">
+                    <h2 class="small">Basic Membership</h2>
+                    <div class="rating">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <i class="far fa-star"></i>
+                    </div>
+                    <label for="card1" class="button" aria-hidden="true">
+                        Click for More Details
+                    </label>
+                </div>
+            </div>
+            <!-- Back of the card -->
+            <div class="back">
+                <div class="inner">
+                    <div class="info">
+                        <span>Access to gym equipment</span>
+                    </div>
+                    <div class="info">
+                        <span>Group classes</span>
+                    </div>
+                    <div class="info">
+                        <span>Locker room facilities</span>
+                    </div>
+                    <div class="description">
+                        <p class="small">Enjoy our Basic Membership that includes access to a wide range of gym equipment, group classes, and locker room facilities. Stay fit and healthy with our top-notch equipment and join fun and energizing group workout sessions. Our locker room facilities provide you with convenience and comfort during your gym visits.</p>
+                        <p class="small">Sign up now and start your fitness journey with us today!</p>
+                    </div>
+                    <div class="location small">New York, USA</div>
+                    <div class="price small">$30 / month</div>
+                    <label for="card1" class="button return" aria-hidden="true">
+                        <i class="fas fa-arrow-left"></i>
+                    </label>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="card">
+        <input type="checkbox" id="card2" class="more">
+        <div class="content">
+            <!-- Front of the card -->
+            <div class="front" style="background-image: url('https://www.pexels.com/photo/person-holding-barbell-841130/')">
+                <div class="inner">
+                    <h2 class="small">Premium Membership</h2>
+                    <div class="rating">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                    </div>
+                    <label for="card2" class="button" aria-hidden="true">
+                        Click for More Details
+                    </label>
+                </div>
+            </div>
+            <!-- Back of the card -->
+            <div class="back">
+                <div class="inner">
+                    <div class="info">
+                        <span>Access to gym equipment</span>
+                    </div>
+                    <div class="info">
+                        <span>Group classes</span>
+                    </div>
+                    <div class="info">
+                        <span>Locker room facilities</span>
+                    </div>
+                    <div class="info">
+                        <span>Personal trainer sessions</span>
+                    </div>
+                    <div class="description">
+                        <p class="small">Upgrade to our Premium Membership and enjoy all the benefits of the Basic Membership along with personalized training sessions with our experienced personal trainers. Achieve your fitness goals faster with tailored workout plans and professional guidance from our trainers.</p>
+                        <p class="small">Join our premium club today and experience fitness like never before!</p>
+                    </div>
+                    <div class="location small">Los Angeles, USA</div>
+                    <div class="price small">$100 / month</div>
+                    <label for="card2" class="button return" aria-hidden="true">
+                        <i class="fas fa-arrow-left"></i>
+                    </label>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="card">
+        <input type="checkbox" id="card3" class="more">
+        <div class="content">
+            <!-- Front of the card -->
+            <div class="front" style="background-image: url(https://www.shutterstock.com/image-photo/old-gym-interior-equipment-326627258')">
+                <div class="inner">
+                    <h2 class="small">Elite Membership</h2>
+                    <div class="rating">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <label for="card3" class="button" aria-hidden="true">
+                        Click for More Details
+                    </label>
+                </div>
+            </div>
+            <!-- Back of the card -->
+            <div class="back">
+                <div class="inner">
+                    <div class="info">
+                        <span>Access to gym equipment</span>
+                    </div>
+                    <div class="info">
+                        <span>Group classes</span>
+                    </div>
+                    <div class="info">
+                        <span>Locker room facilities</span>
+                    </div>
+                    <div class="info">
+                        <span>Personal trainer sessions</span>
+                    </div>
+                    <div class="info">
+                        <span>Spa and sauna access</span>
+                    </div>
+                    <div class="description">
+                        <p class="small">Experience the ultimate fitness package with our Elite Membership. Get all the benefits of the Premium Membership, as well as access to our luxurious spa and sauna facilities. Relax and rejuvenate your body after intense workouts in our state-of-the-art spa.</p>
+<p>Experience the ultimate fitness package with our Elite Membership. Get all the benefits of the Premium Membership, as well as access to our luxurious spa and sauna facilities. Relax and rejuvenate your body after intense workouts in our state-of-the-art spa.</p>
+<p>Upgrade to the Elite Membership now and indulge in the best fitness and wellness experience.</p>
